@@ -1,0 +1,493 @@
+insert gorod values
+('000','ме сйюгюм           ')
+go
+insert gorod values
+('001','лняйбю              ')
+go
+insert gorod values
+('002','яюмйр-оерепаспц     ')
+go
+insert gorod values
+('003','юярпюуюмэ           ')
+go
+insert gorod values
+('004','юплюбхп             ')
+go
+insert gorod values
+('005','юпуюмцекэяй         ')
+go
+insert gorod values
+('006','бнпнмеф             ')
+go
+insert gorod values
+('007','бнкцнцпюд           ')
+go
+insert gorod values
+('008','бкюдхлхп            ')
+go
+insert gorod values
+('009','ецнпэебяй           ')
+go
+insert gorod values
+('010','хбюмнбн             ')
+go
+insert gorod values
+('011','хпйсряй             ')
+go
+insert gorod values
+('012','рбепэ               ')
+go
+insert gorod values
+('013','йюксцю              ')
+go
+insert gorod values
+('014','йюкхмхмцпюд         ')
+go
+insert gorod values
+('015','йнйхмн              ')
+go
+insert gorod values
+('016','йкхмжш              ')
+go
+insert gorod values
+('017','йюгюмэ              ')
+go
+insert gorod values
+('018','йелепнбн            ')
+go
+insert gorod values
+('019','йпюямндюп           ')
+go
+insert gorod values
+('020','кхоежй              ')
+go
+insert gorod values
+('021','мюкэвхй             ')
+go
+insert gorod values
+('022','мнбнлняйнбяй        ')
+go
+insert gorod values
+('023','мнбняхахпяй         ')
+go
+insert gorod values
+('024','лсплюмяй            ')
+go
+insert gorod values
+('025','мнбнвепйюяяй        ')
+go
+insert gorod values
+('026','люуювйюкю           ')
+go
+insert gorod values
+('027','нляй                ')
+go
+insert gorod values
+('028','нпек                ')
+go
+insert gorod values
+('029','оемгю               ')
+go
+insert gorod values
+('030','оеплэ               ')
+go
+insert gorod values
+('031','оърхцнпяй           ')
+go
+insert gorod values
+('032','осьйхм              ')
+go
+insert gorod values
+('033','пнярнб-мю-днмс      ')
+go
+insert gorod values
+('034','пшахмяй             ')
+go
+insert gorod values
+('035','пняяньэ             ')
+go
+insert gorod values
+('036','яюянбн              ')
+go
+insert gorod values
+('037','ейюрепхмаспц        ')
+go
+insert gorod values
+('038','ялнкемяй            ')
+go
+insert gorod values
+('039','яшйршбйюп           ')
+go
+insert gorod values
+('040','ярюбпнонкэ          ')
+go
+insert gorod values
+('041','ярюпши няйнк        ')
+go
+insert gorod values
+('042','рсюояе              ')
+go
+insert gorod values
+('043','рскю                ')
+go
+insert gorod values
+('044','рнкэъррх            ')
+go
+insert gorod values
+('045','рчлемэ              ')
+go
+insert gorod values
+('046','уюаюпнбяй           ')
+go
+insert gorod values
+('047','стю                 ')
+go
+insert gorod values
+('048','скюм-сдщ            ')
+go
+insert gorod values
+('049','вхрю                ')
+go
+insert gorod values
+('050','цпнгмши             ')
+go
+insert gorod values
+('051','ъпнякюбкэ           ')
+go
+insert gorod values
+('052','аекцнпнд            ')
+go
+insert gorod values
+('053','бнкэяй              ')
+go
+insert gorod values
+('054','люийно              ')
+go
+insert gorod values
+('055','пъгюмэ              ')
+go
+insert gorod values
+('056','унрэйнбн            ')
+go
+insert gorod values
+('058','йюляй               ')
+go
+insert gorod values
+('059','йхпяюмнбяй          ')
+go
+insert gorod values
+('060','лхвспхмяй           ')
+go
+insert gorod values
+('061','мнбнбнпнмефяй       ')
+go
+insert gorod values
+('057','бкюдхйюбйюг         ')
+go
+insert gorod values
+('062','мнбнйсгмежй         ')
+go
+insert gorod values
+('063','мебхммнлшяяй        ')
+go
+insert gorod values
+('064','яюлюпю              ')
+go
+insert gorod values
+('065','люцмхрнцнпяй        ')
+go
+insert gorod values
+('066','рюланб              ')
+go
+insert gorod values
+('067','вепмэ               ')
+go
+insert gorod values
+('068','пшкэяй              ')
+go
+insert gorod values
+('069','аюпмюск             ')
+go
+insert gorod values
+('070','йспяй               ')
+go
+insert gorod values
+('071','нйръапэяйхи         ')
+go
+insert gorod values
+('072','бнкцнпевемяй        ')
+go
+insert gorod values
+('073','о-й юуршпяйхи       ')
+go
+insert gorod values
+('074','йюлшьхм             ')
+go
+insert gorod values
+('075','лхмепюкэмше бндш    ')
+go
+insert gorod values
+('076','мнбнрпнхжй          ')
+go
+insert gorod values
+('077','ьекеунб             ')
+go
+insert gorod values
+('078','о-й фекегмнднпнфмхй ')
+go
+insert gorod values
+('079','о-й лняйюкемйх      ')
+go
+insert gorod values
+('080','кеяняхахпяй         ')
+go
+insert gorod values
+('081','фекегмнцнпяй        ')
+go
+insert gorod values
+('082','йспцюмяй            ')
+go
+insert gorod values
+('083','метрейсляй          ')
+go
+insert gorod values
+('084','о-й бхмнцпюдмши     ')
+go
+insert gorod values
+('085','якюбъмяй-мю-йсаюмх  ')
+go
+insert gorod values
+('086','яюпюмяй             ')
+go
+insert gorod values
+('087','мхфмхи мнбцнпнд     ')
+go
+insert gorod values
+('101','йхеб                ')
+go
+insert gorod values
+('102','аекцнпнд-дмеярп     ')
+go
+insert gorod values
+('103','юлбпняхебйю         ')
+go
+insert gorod values
+('104','ксцюмяй             ')
+go
+insert gorod values
+('105','бхммхжю             ')
+go
+insert gorod values
+('106','днмежй              ')
+go
+insert gorod values
+('107','гюонпнфэе           ')
+go
+insert gorod values
+('108','йпелемвсц           ')
+go
+insert gorod values
+('109','йпхбни пнц          ')
+go
+insert gorod values
+('110','хмцскеж             ')
+go
+insert gorod values
+('111','йхпнбцпюд           ')
+go
+insert gorod values
+('112','йнмярюмрхмнбйю      ')
+go
+insert gorod values
+('113','мнбюъ йюунбйю       ')
+go
+insert gorod values
+('114','кэбнб               ')
+go
+insert gorod values
+('115','ндеяяю              ')
+go
+insert gorod values
+('116','йнлянлнкэяй         ')
+go
+insert gorod values
+('117','псаефмне            ')
+go
+insert gorod values
+('118','мхйнонкэ            ')
+go
+insert gorod values
+('119','онкрюбю             ')
+go
+insert gorod values
+('120','яхлтепнонкэ         ')
+go
+insert gorod values
+('121','якюбъмяй            ')
+go
+insert gorod values
+('122','уюпэйнб             ')
+go
+insert gorod values
+('123','уепянм              ')
+go
+insert gorod values
+('124','сфцнпнд             ')
+go
+insert gorod values
+('125','улекэмхжйхи         ')
+go
+insert gorod values
+('126','юпрелнбяй           ')
+go
+insert gorod values
+('127','дмеопндгепфхмяй     ')
+go
+insert gorod values
+('128','люпхсонкэ           ')
+go
+insert gorod values
+('129','йнмнрно             ')
+go
+insert gorod values
+('130','пнлмш               ')
+go
+insert gorod values
+('131','ялекъмяй            ')
+go
+insert gorod values
+('132','лхпцнпнд            ')
+go
+insert gorod values
+('133','дмеопноерпнбяй      ')
+go
+insert gorod values
+('134','вепйюяяш            ')
+go
+insert gorod values
+('135','вепмхцнб            ')
+go
+insert gorod values
+('136','пнбмн               ')
+go
+insert gorod values
+('137','йнллсмюпяй          ')
+go
+insert gorod values
+('138','фхрнлхп             ')
+go
+insert gorod values
+('139','ярюуюмнб            ')
+go
+insert gorod values
+('140','йпюямнюплеияй       ')
+go
+insert gorod values
+('141','люйеебйю            ')
+go
+insert gorod values
+('151','лхмяй               ')
+go
+insert gorod values
+('152','цнпйх               ')
+go
+insert gorod values
+('153','лнцхкеб             ')
+go
+insert gorod values
+('154','цнлекэ              ')
+go
+insert gorod values
+('155','бхреаяй             ')
+go
+insert gorod values
+('156','мнбнонкнжй          ')
+go
+insert gorod values
+('157','охмяй               ')
+go
+insert gorod values
+('158','цпндмн              ')
+go
+insert gorod values
+('159','о-й нйръапэяйхи     ')
+go
+insert gorod values
+('201','йхьхмеб             ')
+go
+insert gorod values
+('202','жюскэ               ')
+go
+insert gorod values
+('203','рхпюяонкэ           ')
+go
+insert gorod values
+('251','юклю-юрю            ')
+go
+insert gorod values
+('252','юйрчахмяй           ')
+go
+insert gorod values
+('253','оерпноюбкнбяй       ')
+go
+insert gorod values
+('254','дфюласк             ')
+go
+insert gorod values
+('255','псдмши              ')
+go
+insert gorod values
+('256','вхлйемр             ')
+go
+insert gorod values
+('257','рспйеярюм           ')
+go
+insert gorod values
+('258','йюпюрюс             ')
+go
+insert gorod values
+('301','епебюм              ')
+go
+insert gorod values
+('351','рахкхях             ')
+go
+insert gorod values
+('352','ясуслх              ')
+go
+insert gorod values
+('401','аюйс                ')
+go
+insert gorod values
+('451','рюьйемр             ')
+go
+insert gorod values
+('452','яюлюпйюмд           ')
+go
+insert gorod values
+('501','ахьйей              ')
+go
+insert gorod values
+('502','о-й йхпьекй         ')
+go
+insert gorod values
+('551','дсьюмае             ')
+go
+insert gorod values
+('552','о-й ьюупхмюс        ')
+go
+insert gorod values
+('601','пхцю                ')
+go
+insert gorod values
+('651','рюккхмм             ')
+go
+insert gorod values
+('701','бхкэмчя             ')
+go
+insert gorod values
+('751','юьцюаюр             ')
+go
+insert gorod values
+('752','аюипюл-юкх          ')
+go
+
