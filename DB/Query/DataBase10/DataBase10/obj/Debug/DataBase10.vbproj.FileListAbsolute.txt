@@ -1,0 +1,11 @@
+C:\Users\Izoto\source\repos\DataBase10\DataBase10\bin\Debug\DataBase10.exe.config
+C:\Users\Izoto\source\repos\DataBase10\DataBase10\bin\Debug\DataBase10.exe
+C:\Users\Izoto\source\repos\DataBase10\DataBase10\bin\Debug\DataBase10.pdb
+C:\Users\Izoto\source\repos\DataBase10\DataBase10\bin\Debug\DataBase10.xml
+C:\Users\Izoto\source\repos\DataBase10\DataBase10\obj\Debug\DataBase10.vbprojAssemblyReference.cache
+C:\Users\Izoto\source\repos\DataBase10\DataBase10\obj\Debug\DataBase10.Resources.resources
+C:\Users\Izoto\source\repos\DataBase10\DataBase10\obj\Debug\DataBase10.vbproj.GenerateResource.cache
+C:\Users\Izoto\source\repos\DataBase10\DataBase10\obj\Debug\DataBase10.exe
+C:\Users\Izoto\source\repos\DataBase10\DataBase10\obj\Debug\DataBase10.xml
+C:\Users\Izoto\source\repos\DataBase10\DataBase10\obj\Debug\DataBase10.pdb
+C:\Users\Izoto\source\repos\DataBase10\DataBase10\obj\Debug\DataBase10.FormDatabase.resources
