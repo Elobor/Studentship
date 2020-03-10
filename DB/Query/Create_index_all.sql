@@ -1,0 +1,17 @@
+CREATE UNIQUE INDEX nomind ON poss (nomer)
+CREATE INDEX polind ON poss (pol)
+CREATE INDEX semind ON poss (sem_polog_k)
+CREATE INDEX specind ON poss (spec)
+CREATE INDEX katind ON poss (kat_obuch_k)
+CREATE INDEX vuzind ON poss (vuz_k)
+CREATE INDEX gpind ON poss (gp)
+CREATE INDEX goind ON poss (gok)
+
+CREATE UNIQUE INDEX codvgind ON vuz_gorod (cod_vuza)
+CREATE INDEX codgoind ON vuz_gorod (cod_goroda)
+CREATE INDEX codvsind ON vuz_gorod (cod_stran)
+
+CREATE UNIQUE INDEX codsind ON family (cod)
+CREATE UNIQUE INDEX codkind ON kat_obuch (cod)
+CREATE UNIQUE INDEX codgind ON gorod (cod)
+CREATE UNIQUE INDEX codvind ON vuz (cod)

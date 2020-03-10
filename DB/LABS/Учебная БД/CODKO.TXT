@@ -1,0 +1,52 @@
+insert kat_obuch values
+('00','? ? ?           ')
+go
+insert kat_obuch values
+('01','о/т(бсг)        ')
+go
+insert kat_obuch values
+('02','о/т(реум.)      ')
+go
+insert kat_obuch values
+('03','ярсдемр         ')
+go
+insert kat_obuch values
+('04','ярсдемр-гюнвмхй ')
+go
+insert kat_obuch values
+('05','свюыхияъ        ')
+go
+insert kat_obuch values
+('06','люцхярпюрспю    ')
+go
+insert kat_obuch values
+('07','юяохпюмр        ')
+go
+insert kat_obuch values
+('08','юяохпюмр-гюнвмхй')
+go
+insert kat_obuch values
+('09','нпдхмюрспю      ')
+go
+insert kat_obuch values
+('10','ярюфеп+юяохпюмр ')
+go
+insert kat_obuch values
+('11','ярюфеп          ')
+go
+insert kat_obuch values
+('12','йспяш рпемепнб  ')
+go
+insert kat_obuch values
+('13','янхяйюрекэ      ')
+go
+insert kat_obuch values
+('14','днйрнпюмрспю    ')
+go
+insert kat_obuch values
+('15','свюыхияъ орс    ')
+go
+insert kat_obuch values
+('16','ьйнкэмхй        ')
+go
+

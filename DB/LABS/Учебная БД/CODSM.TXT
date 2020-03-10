@@ -1,0 +1,13 @@
+insert family values
+('0','ункняр      ')
+go
+insert family values
+('1','феHюр/гюлсф.')
+go
+insert family values
+('2','ап.я пня.цпф')
+go
+insert family values
+('3','ап.пня.г/пса')
+go
+
