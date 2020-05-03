@@ -1,0 +1,11 @@
+C:\Users\Izoto\source\repos\Inf_05\Inf_05\bin\Debug\Inf_05.exe.config
+C:\Users\Izoto\source\repos\Inf_05\Inf_05\bin\Debug\Inf_05.exe
+C:\Users\Izoto\source\repos\Inf_05\Inf_05\bin\Debug\Inf_05.pdb
+C:\Users\Izoto\source\repos\Inf_05\Inf_05\bin\Debug\Inf_05.xml
+C:\Users\Izoto\source\repos\Inf_05\Inf_05\obj\Debug\Inf_05.vbprojAssemblyReference.cache
+C:\Users\Izoto\source\repos\Inf_05\Inf_05\obj\Debug\Inf_05.Form1.resources
+C:\Users\Izoto\source\repos\Inf_05\Inf_05\obj\Debug\Inf_05.Resources.resources
+C:\Users\Izoto\source\repos\Inf_05\Inf_05\obj\Debug\Inf_05.vbproj.GenerateResource.cache
+C:\Users\Izoto\source\repos\Inf_05\Inf_05\obj\Debug\Inf_05.exe
+C:\Users\Izoto\source\repos\Inf_05\Inf_05\obj\Debug\Inf_05.xml
+C:\Users\Izoto\source\repos\Inf_05\Inf_05\obj\Debug\Inf_05.pdb
