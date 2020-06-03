@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset=utf-8'>
+		<title> Лабораторная работа №8 </title>
+		<link rel="stylesheet" href="Form.css">
+	</head>
+	<body>
+		<form>
+			<div class="form_wrap"> <!-- Первый основной блок формы -->
+				<div align="center"> <!-- Выравненные по-центру заголовок и поля с однострочным текстом, паролем, многострочным текстом. Здесь и далее placeholder создаёт текст-замещение, readonly блокирует изменение лемента пользователем -->
+					<h3> Отправка резюме </h3>
+					<p> <input  type="text" maxlength="25" size="30" placeholder="Введитe ваше имя"> </p>
+					<p> <input type="password" maxlength="25" size="30" placeholder="Введитe пароль" readonly> </p>
+					<p> <textarea cols="32" rows="5" wrap = "soft" value="area" placeholder="Расскажите о себе" style="resize: none;"></textarea> </p>
+				</div> 
+				<div class="text"> <!-- Промежуточный блок формы, состоящий из текста и флажков -->
+					<br> С какими операционными системами вам приходилось работать?
+					<br> <input type="checkbox" value="0"> Windows XP
+					<br> <input type="checkbox" value="1"> Windows Vista
+					<br> <input type="checkbox" value="2"> Windows 7
+					<br> <input type="checkbox" value="3"> Windows 10
+				</div> 
+				<div class="text"> <!-- Промежуточный блок формы, состоящий из текста и списка -->
+					<br> Выберите ваше образование:
+					<br><select name="select" size="3" multiple> 
+						<option value="s1"> Среднее профессиональное </option>  
+						<option value="s2"> Высшее неоконченое </option> 
+						<option value="s3"> Высшее образование </option>
+					</select>
+				</div>
+				<div class="text"> <!-- Промежуточный блок формы, состоящий из текста и радиальных кнопок. Здесь и далее disabled блокирует изменение элемента. -->
+					<br>Вы согласны на обработку ваших персональных данных?
+					<br> <input type="radio" name="rad" value="r1" checked disabled> Yes
+					<br> <input type="radio" name="rad" value="r2" disabled> No
+				</div>
+				<div align="center">  <input type="submit"> <input type="reset"> <p></p> </div> <!-- Промежуточный блок формы, состоящий из кнопок отправить и очистить форму  -->
+			</div>
+			<div class="form_part2"> <!-- Второй блок формы -->
+				<div class="text"> <!-- Промежуточный блок формы, состоящий из заголовка, поясняющих текстов перед элементами, элемента числового ввода, элемента ползунка, элемента выбора даты, элемента выдора цвета, элемента поиска, элемента ниспадающего списка, прикрепленного к списку datalist, элемента ввода номера телефона, элемента ввода адреса почты с проверкой правильности воода с помощью pattern, элемента ввода ссылки, элемента вывода output -->
+					<h4> Дополнительная информация </h4>
+					<p><br> Ваш опыт работы: <input type="number" min="0" max="99" required> лет </p>
+					<p> Вы: Интроверт <input type = "range" min="0" max="100" step="1" value="50"> Экстраверт </p>
+					<p> Ваша дата рождения: <input type="date" name="calendar" value="1999-01-01" max="2002-01-01" min="1900-01-01" required> </p>
+					<p> Ваш любимый цвет: <input type="color"> </p>
+					<br> Свободные вакансии: <input type="search" placeholder="Поиск">
+					<datalist id="vac"><option value="RUS" label="Russian Federation" />  <option value="BEL" label="Belarus" /> <option value="UKR" label="Ukrain" />  </datalist>
+					<p> Ваше гражданство:<input type="text" list="vac"/> </p>
+					<p> Ваш телефон: <input type="tel" id="phone" placeholder="Номер телефона" required onchange="chance()"> </p>
+					<p> Ваша почта: <input type="e-mail" placeholder="email" required pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$"> </p>
+					<p> 
+						Если у вас существует анкета на стороннем сайте, введите ссылку на неё:
+						<br> <input type="url" placeholder="Ваша ссылка">
+					</p>
+					<br> Ваш шанс трудоустройства: <output id="result">50</output>%
+				</div>
+			</div>
+			<script> <!-- Скрипт вычисления значения в элементе output по введённому номеру телефона -->
+				function chance() {
+				var x = document.getElementById("phone").value;
+				while (x > 100) {
+ 					 x = (x/30)*2;
+				}
+				document.getElementById("result").innerHTML = x;
+				}
+			</script>
+		</form>
+	</body>
+</html>
